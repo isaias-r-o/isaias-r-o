@@ -2,16 +2,10 @@
 <br>
 
 ## 👋🏻 About me
-<p>Hello, I'm Isaías Ramos, a Software Engineering graduate with an interest in technology and software development.
-<br>
-<br>
-In recent months, I have dedicated myself to studying programming and software development, taking online courses and practicing on personal projects. My goal is to acquire solid knowledge in programming and be able to contribute to the development of efficient and creative solutions.
-<br>
- <br>
-I am a determined, organized person with problem-solving skills. I believe that these skills can be applied in the area of ​​software development to contribute significantly to the team.</p>
+<p>Hello, I'm Isaías Ramos. Interest in technology and software development.
 
  - 💼 Focused on learning the main technologies on the market.
- - ✏️ Currently studying AWS and Docker. 
+ - ✏️ Currently studying Nest.js and AWS. 
  - 📕 Love for fiction books.
 
 <br>
